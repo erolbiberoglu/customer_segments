@@ -48,3 +48,4 @@ Note (m.u.) is shorthand for *monetary units*.
 7) `Channel`: {Hotel/Restaurant/Cafe - 1, Retail - 2} (Nominal)
 8) `Region`: {Lisnon - 1, Oporto - 2, or Other - 3} (Nominal) # customer_segments
 # customer_segments
+# customers_segments
